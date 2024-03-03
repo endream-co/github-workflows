@@ -6,7 +6,7 @@ inputs:
     required: true
   go_version:
     required: false
-    default: "1.21.5"
+    default: 1.22.0
 
 runs:
   using: "composite"
